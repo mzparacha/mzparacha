@@ -16,7 +16,7 @@ I'm a Full Stack Developer with over 8 years of experience in JavaScript, TypeSc
 💬 Ask me about anything tech-related
 
 📫 How to reach me: [Email](mailto:malikzulqurnain2121@gmail.com)
- | [Linkedin](https://www.linkedin.com/in/malik-zulqurnain/)
+ |
 
 😄 Pronouns: He/Him
 
