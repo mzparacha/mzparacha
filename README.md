@@ -17,8 +17,6 @@ I'm a Full Stack Developer with over 8 years of experience in JavaScript, TypeSc
 
 😄 Pronouns: He/Him
 
-🇵🇰 I'm from Pakistan
-
 ## Skills
 
 - JavaScript
