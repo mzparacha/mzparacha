@@ -28,4 +28,4 @@ I'm a Full Stack Developer with over 8 years of experience in JavaScript, TypeSc
 - CI/CD
 - DevOps
 
-Let's connect and build something amazing together!
+Let's connect at zulqurnain.work@gmail.com and build something amazing together!
