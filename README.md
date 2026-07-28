@@ -1,7 +1,7 @@
-# Hi there 👋 It's Malik
+# Hi there 👋
 
 
-I'm a Full Stack Developer with over 8 years of experience in JavaScript, TypeScript, Node.js, Angular, and MERN stack. I have extensive experience in CI/CD and DevOps, and I am constantly exploring new technologies to enhance my skills.
+I'm a Full Stack Developer with over 10+ years of experience in JavaScript, TypeScript, Node.js, Angular, and MERN stack. I have extensive experience in CI/CD and DevOps, and I am constantly exploring new technologies to enhance my skills.
 
 ## About Me
 
@@ -28,4 +28,4 @@ I'm a Full Stack Developer with over 8 years of experience in JavaScript, TypeSc
 - CI/CD
 - DevOps
 
-Let's connect at zulqurnain.work@gmail.com and build something amazing together!
+Let's connect and build something amazing together!
